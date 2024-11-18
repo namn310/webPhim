@@ -66,7 +66,7 @@
           while ($r = $query->fetch_assoc()) {
           ?>
             <li data-liked="852" data-views="49,875">
-              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="../images/<?php echo $r['image'] ?>" alt=""></a>
+              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="images/<?php echo $r['image'] ?>" alt=""></a>
                 <div class="info">
                   <div class="name"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><?php echo $r['name'] ?></a></div>
                   <div class="name2"><?php echo $r['name2'] ?></div>
@@ -87,7 +87,7 @@
           while ($r = $query->fetch_assoc()) {
           ?>
             <li data-liked="3,987" data-views="94,650">
-              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="../images/<?php echo $r['image'] ?>" alt=""></a>
+              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="images/<?php echo $r['image'] ?>" alt=""></a>
                 <div class="info">
                   <div class="name"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><?php echo $r['name'] ?></a></div>
                   <div class="name2"><?php echo $r['name2'] ?></div>
@@ -108,7 +108,7 @@
           while ($r = $query->fetch_assoc()) {
           ?>
             <li data-liked="3,987" data-views="94,650">
-              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="../images/<?php echo $r['image'] ?>" alt=""></a>
+              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="images/<?php echo $r['image'] ?>" alt=""></a>
                 <div class="info">
                   <div class="name"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><?php echo $r['name'] ?></a></div>
                   <div class="name2"><?php echo $r['name2'] ?></div>
@@ -173,7 +173,7 @@
           while ($r = $query->fetch_assoc()) {
           ?>
             <li data-liked="238" data-views="33,450">
-              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="../images/<?php echo $r['image'] ?>" alt=""></a>
+              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="images/<?php echo $r['image'] ?>" alt=""></a>
                 <div class="info">
                   <div class="name"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><?php echo $r['name'] ?></a></div>
                   <div class="name2"><?php echo $r['name2'] ?></div>
@@ -203,7 +203,7 @@
           while ($r = $query->fetch_assoc()) {
           ?>
             <li data-liked="238" data-views="33,450">
-              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="../images/<?php echo $r['image'] ?>" alt=""></a>
+              <div class="inner"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><img src="images/<?php echo $r['image'] ?>" alt=""></a>
                 <div class="info">
                   <div class="name"><a href="?mod=detail&film_id=<?php echo $r['id'] ?>" title="<?php echo $r['name'] ?>"><?php echo $r['name'] ?></a></div>
                   <div class="name2"><?php echo $r['name2'] ?></div>

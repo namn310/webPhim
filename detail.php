@@ -53,7 +53,7 @@ sort($days);
         </div>
         <div class="info">
             <h2 class="title fr"><?php echo $r['name'] ?></h2>
-            <div class="poster"><a href="#" title="Xem phim <?php echo $r['name'] ?>"><img src="../images/<?php echo $r['image'] ?>" alt="<?php echo $r['name'] ?>"></a></div>
+            <div class="poster"><a href="#" title="Xem phim <?php echo $r['name'] ?>"><img src="images/<?php echo $r['image'] ?>" alt="<?php echo $r['name'] ?>"></a></div>
             <div class="name2 fr">
                 <h3><?php echo $r['name2'] ?></h3><span class="year" style="font-size:12px">(2010)</span>
             </div>
